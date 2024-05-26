@@ -53,12 +53,12 @@ h1{
     display: flex;
     position: absolute;
     bottom: 10px;
-    left: 50%;
+    left: 35%;
     translate: translateX(-50%);
 }
 
 .letter{
-    border-bottom: 3px solid black;
+    border-bottom: 3px solid white;
     display: inline-flex;
     font-size: 30px;
     align-items: center;
